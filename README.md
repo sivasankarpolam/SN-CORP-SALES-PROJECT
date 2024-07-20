@@ -1,7 +1,7 @@
 # SN-CORP-SALES-PROJECT
 # Project Overview:
 This project aims to streamline and optimize various aspects of SN Corporation Sales business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
-# Dashboard Link:https://drive.google.com/file/d/1YpXua100w1-cHMgC1cA5gFy5Q6w9arVF/view?usp=drive_link
+# Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiNjM1Y2NiZjgtM2Y2Yy00MmMzLWIzZjctNDJhNGZiOGFlZDAwIiwidCI6IjRiNDY5YmYzLTdlZGYtNDU5My05Yjc3LWU0ODA3OTUzYzczMCJ9
 # Finance View:
 ## Objectives:
 * Improve financial planning and budgeting processes.
