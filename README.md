@@ -28,7 +28,7 @@ This project analyzes sales data from SN Corporation, issued by the State Bank o
 * Peak Sales Period: The 3rd quarter of 2020 saw the highest number of sales compared to other years.
 * Total Profit: The total profit earned was 627,000 euros.
 * Total Cost: The total cost incurred was 640,000 euros.
-* Total Sales: The total sales amounted to 1.3 million euros.
+* Total Sales: The total sales amounted to 1.3 million.
 ## Folder Structure
 * data/: Contains the cleaned and raw datasets used for analysis.
 * notebooks/: Jupyter notebooks containing Python code for EDA and data cleaning.
